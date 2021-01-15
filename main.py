@@ -1,5 +1,5 @@
 
-
+#understanding functions
 def format_name(first, last):
   if first == "" or last == "":
     return "You didn't provide valid input"
